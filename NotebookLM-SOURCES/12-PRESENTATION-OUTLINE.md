@@ -1,5 +1,36 @@
 # PRESENTATION OUTLINE — the PPT skeleton (feed this + docs 01–11 to NotebookLM/Gemini)
 
+> ⚠️ **SUBMISSION DEMO FORMAT — OFFICIAL RULES (verified Nov 14, 2026 from Space Apps Judging
+> Guidelines + Project Submission Guide):**
+> - The Demo must be **slides (MAX 7, including title & ending) OR video (MAX 30 seconds)**.
+> - Judges **stop reviewing at slide 8 / 31 seconds**. >7 slides = NOT eligible for Global Judging.
+> - Deck must be in **English**, hosted publicly (Google Drive/Slides, YouTube) — the portal takes
+>   only a LINK, never an upload. Test the link in a private/incognito window.
+> - The Demo must name: team name, project name, challenge selected, team members.
+> - **AI usage must be declared**; AI-generated images/videos need a visible watermark.
+> - Judging criteria: Impact · Creativity · Validity · Relevance · Presentation.
+>
+> **THE 7-SLIDE SUBMISSION DEMO (this is what we submit):**
+> 1. **TITLE** — "FLARE — Freefall Lab Analysis & Ranking Engine" · Challenge: Flame in Freefall ·
+>    team name + members · hook: "The fire alarm went off 80,000 miles from home" (Artemis II, 2026).
+> 2. **THE PROBLEM** — PSI = 24 combustion investigations, 12 TB; 50 years of data, no decision
+>    tool; Artemis II shows what's at stake. (docs 01–02)
+> 3. **WHAT THE EVIDENCE SAYS** — 5 killer facts w/ citation chips: PMMA 17.5% O2 in µg vs 19% on
+>    Earth (BASS-II); ignition delays 230 s vs 25-s Test 1 window; cool flames ~700–780 K
+>    invisible; SAFFIRE-VI alarm at 981 s after CO2 8,539 ppm; SIBAL burns downward at lunar-g but
+>    self-extinguishes at 1-g (FM2). (docs 03–05)
+> 4. **WHAT WE BUILT** — FLARE: scenario engine (ISS/Moon Base ≥30% O2 @ ≤10.2 psi/rover/suit
+>    100% @ 4.3 psi) + explainable 5-factor ranking + citation-or-no-render SI layer. (doc 09)
+> 5. **HOW WE USED NASA DATA** — PSI investigations + NTRS papers → evidence graph → rankings;
+>    investigations named (BASS-II, FLEX, SAFFIRE, SAME, SoFIE); AI usage declared. (doc 02)
+> 6. **THE DEMO** — wireframe/screenshots: ranked Moon-Base scenario table, parameter dot-plots,
+>    Ask-FLARE answer with citation chips. (doc 09 §6)
+> 7. **CLOSE** — Earth applications (water mist, particle-aware detection, firefighter gear);
+>    recap 3 objectives → 3 features; team + GitHub link (github.com/subhansh-dev/fleur). (docs 11, 09)
+>
+> The 12-slide plan below is the EXTENDED pitch version — keep it for local-event presentation or
+> Q&A depth, but the SUBMITTED Demo link must be the 7-slide deck above.
+
 > Purpose: this is the slide-by-slide plan for the pitch deck. Each slide lists: headline, the 2–3
 > claims to make (with which source doc backs them), and the visual to generate.
 > Deck length: 12 slides + backup. Time budget: 3 min pitch or 90-sec video cut (marked ⏱).
