@@ -1,0 +1,13 @@
+# Space Apps 2026 — Flame in Freefall repo hygiene
+# Raw research PDFs were archived OUT of the repo (see ../spaceapps-prep-archive/).
+# Keep them excluded even if they ever come back:
+research/papers/
+research/metadata/
+*.pdf
+
+# OS/editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
