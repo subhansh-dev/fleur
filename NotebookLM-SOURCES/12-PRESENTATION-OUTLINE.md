@@ -8,6 +8,10 @@
 >   only a LINK, never an upload. Test the link in a private/incognito window.
 > - The Demo must name: team name, project name, challenge selected, team members.
 > - **AI usage must be declared**; AI-generated images/videos need a visible watermark.
+> - **NO NASA logos** (meatball Insignia, worm Logotype, Seal, mission patches) anywhere in the
+>   deck — prohibited without written permission (NASA Brand Guidelines; explicitly banned in
+>   "pitch presentations"), and AI-generated content may not contain NASA branding at all. Use the
+>   challenge name as PLAIN TEXT instead. Never write "NASA approved" or imply endorsement.
 > - Judging criteria: Impact · Creativity · Validity · Relevance · Presentation.
 >
 > **THE 7-SLIDE SUBMISSION DEMO (this is what we submit):**
